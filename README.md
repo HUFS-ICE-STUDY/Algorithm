@@ -17,7 +17,7 @@
 
 ## ❔ How To
 
-1. 매주 3문제
+1. 매주 2문제
 2. 매주 수요일 `21:00` 코드 리뷰
 3. **각 주차별 Directory Name** : 'Week{num}'
     - num : 2자리 숫자로
@@ -53,7 +53,8 @@
   <img src="https://avatars.githubusercontent.com/u/57349859?v=4" alt="seonghun" width="80" style="max-width:100%" />
 </a>
 
-## 👩‍💻 To Slove
-|Week|1|2|3|
-|:---:|:---:|:---:|:---:|
-|Week 1| | | |
+<h3><img src="https://media.giphy.com/media/hiNr8F4JsCcP6/giphy.gif?cid=790b7611ee0998093da6483d0ad9903c7bf70b54c55b3da1&rid=giphy.gif" height="50"/>To Slove </h3> 
+
+|Week|1|2|
+|:---:|:---:|:---:|
+|Week 1| | |
