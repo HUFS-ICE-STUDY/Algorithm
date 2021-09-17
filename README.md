@@ -18,19 +18,22 @@
 ## ❔ How To
 
 1. 매주 3문제
-2. 매주 월요일 `21:00` 코드 리뷰
+2. 매주 수요일 `21:00` 코드 리뷰
 3. **각 주차별 Directory Name** : 'Week{num}'
     - num : 2자리 숫자로
     - ex) Week01
 4. **Directory Name** : `문제번호`
-    - 백준 : 2573
+    - 백준 : 1006
     - 프로그래머스 : 문제명
+    - 코드트리 : 문제명
 5. **File Name** : `문제번호_성씨`  
-    - 백준 : 2573_kang.cpp  
+    - 백준 : 1006_kang.cpp  
     - 프로그래머스 : 문제명_kang.cpp
+    - 코드트리 : 문제명_kang.cpp
 6. **Commit Message** : `[Solve] 💯 사이트명_문제번호.문제명`  
-  [Solve] 💯 baekjoon_2573.빙산  
-  [Solve] 💯 programmers_level2.기능개발
+  [Solve] 💯 baekjoon_1006.습격자초라기  
+  [Solve] 💯 programmers_level2.기능개발  
+  [Solve] 💯 codetree.십자모양폭팔  
 
 
 <br />
