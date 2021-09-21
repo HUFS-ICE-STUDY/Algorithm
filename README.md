@@ -57,4 +57,4 @@
 
 |Week|1|2|
 |:---:|:---:|:---:|
-|Week 1|[십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/cross-shape-bomb/description)|[최적의 십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/best-cross-shape-bomb/description)|
+|[Week 1](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/codetree/Week01/Week01.md)|[십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/cross-shape-bomb/description)|[최적의 십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/best-cross-shape-bomb/description)|
