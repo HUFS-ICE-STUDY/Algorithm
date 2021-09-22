@@ -1,3 +1,4 @@
+# branch test by Jang
 # 변수 선언 및 입력:
 n = int(input())    
 arr = []
