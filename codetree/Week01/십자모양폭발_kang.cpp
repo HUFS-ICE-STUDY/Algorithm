@@ -7,8 +7,8 @@ int grid[200][200];
 int next_grid[200][200];
 
 int main(){
-    int dx[4] = {1,0,-1,0};
-    int dy[4] = {0,1,0,-1};
+    int dx[4] = {0,1,0,-1};
+    int dy[4] = {1,0,-1,0};
     cin >> n ;
     for(int i = 0 ; i < n ; i ++){
         for(int j = 0 ; j < n ; j++){
