@@ -26,7 +26,7 @@ for i in range(count):
         arr[x][y+i] = 0
 
 ans = [[0]*n for _ in range(n)]
-
+ 
 # 폭탄을 터지고 중력이 작용
 for i in range(n):
     temp = n-1
