@@ -8,8 +8,8 @@
 
 ## 💻Algorithm Site
 
-|Site|
-|---|
+| Algorithm Site |
+|----------------|
 |[Baekjooon](https://www.acmicpc.net/)|
 |[Programmers](https://programmers.co.kr/)|
 |[Codetree](https://codetree.ai/)|
@@ -33,10 +33,8 @@
 6. **Commit Message** : `[Solve] 💯 사이트명_문제번호.문제명`  
   [Solve] 💯 baekjoon_1006.습격자초라기  
   [Solve] 💯 programmers_level2.기능개발  
-  [Solve] 💯 codetree.십자모양폭팔  
+  [Solve] 💯 codetree.십자모양폭발 
 
-
-<br />
 
 ## 👐 Contributer
 
@@ -53,8 +51,9 @@
   <img src="https://avatars.githubusercontent.com/u/57349859?v=4" alt="seonghun" width="80" style="max-width:100%" />
 </a>
 
-<h3><img src="https://media.giphy.com/media/hiNr8F4JsCcP6/giphy.gif?cid=790b7611ee0998093da6483d0ad9903c7bf70b54c55b3da1&rid=giphy.gif" height="50"/>To Slove </h3> 
+<h3><img src="https://media.giphy.com/media/hiNr8F4JsCcP6/giphy.gif?cid=790b7611ee0998093da6483d0ad9903c7bf70b54c55b3da1&rid=giphy.gif" height="50"/>To Solve </h3> 
 
 |Week|1|2|
 |:---:|:---:|:---:|
-|[Week 1](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/codetree/Week01/Week01.md)|[십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/cross-shape-bomb/description)|[최적의 십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/best-cross-shape-bomb/description)|
+|[Week 1](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/codetree/Week01/README.md)|[십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/cross-shape-bomb/description)|[최적의 십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/best-cross-shape-bomb/description)|
+|[Week 2](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/codetree/Week02/README.md)|[떨어지는 1자 블록](https://www.codetree.ai/missions/2/concepts/2/problems/falling-horizontal-block/description)|[핀볼 게임](https://www.codetree.ai/missions/2/concepts/2/problems/pinball-game/description)|

@@ -1,3 +1,5 @@
+<h1><img src="https://user-images.githubusercontent.com/46666296/133788774-1bba4108-db05-4d35-88ac-e355f29040a0.png"/></h1>
+
 |                    이름                    |                                                                십자모양폭발                                                                 |                                                                           최적의십자모양폭발                                                                           |
 | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   [강승환](https://github.com/kangshwan)   | [⭕](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/codetree/Week01/%EC%8B%AD%EC%9E%90%EB%AA%A8%EC%96%91%ED%8F%AD%EB%B0%9C_kang.cpp) | [⭕](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/codetree/Week01/%EC%B5%9C%EC%A0%81%EC%9D%98%EC%8B%AD%EC%9E%90%EB%AA%A8%EC%96%91%ED%8F%AD%EB%B0%9C_kang.cpp) |
