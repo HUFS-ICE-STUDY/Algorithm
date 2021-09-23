@@ -14,7 +14,7 @@ int main(){
         for(int j = 0 ; j < n ; j++){
             cin >> grid[i][j];
         }
-    }
+    } 
     int r, c;
     cin >> r >> c;
     r--;
