@@ -9,7 +9,7 @@
 
 |                    이름                    | 떨어지는 1자 블록 | 핀볼 게임 |
 |:------------------------------------------:|:---------------:|:----------:|
-| [강승환](https://github.com/kangshwan)     |        ❌       |     ❌    | 
+| [강승환](https://github.com/kangshwan)     |[⭕](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/codetree/Week02/떨어지는1차블록_kang.cpp)|❌|
 | [송진호](https://github.com/sth4881)       |[⭕](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/codetree/Week02/떨어지는1차블록_song.java)|❌|
 | [오동혁](https://github.com/97DongHyeokOH) |        ❌       |     ❌    |
 | [장성훈](https://github.com/jsh9611)       |        ❌       |     ❌    |
