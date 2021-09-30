@@ -6,27 +6,27 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
 
-## 💻Algorithm Site
+## 💻 Algorithm Site
 
-|              Algorithm Site             |
-|:---------------------------------------:|
-|  [Baekjooon](https://www.acmicpc.net/)  |
-|[Programmers](https://programmers.co.kr/)|
-|     [Codetree](https://codetree.ai/)    |
+| Algorithm Site                          | Description                                                             |
+|-----------------------------------------|-------------------------------------------------------------------------|
+|[Baekjooon](https://www.acmicpc.net/)    |	국내 최대 규모의 알고리즘 사이트                                          |
+|[Programmers](https://programmers.co.kr/)| 국내 기업의 코딩 테스트를 진행하기 위한 플랫폼 제공                        |
+|[Codetree](https://codetree.ai/)         | 알고리즘 전문가들이 체계적인 코딩테스트 문제 유형 분류와 학습 커리큘럼 제공 |
 
 
-## ❔ How To
+## 👨‍💻 How To
 
 1. 매주 2문제
 2. 매주 수요일 🕘`21:00` 코드 리뷰
-3. **각 주차별 Directory Name** : 'Week{num}'
+3. **각 주차별 Directory Name** : 'Week [num]'
     - num : 2자리 숫자로
     - ex) Week01
 4. **Directory Name** : `문제번호`
     - 백준 : 1006
     - 프로그래머스 : 문제명
     - 코드트리 : 문제명
-5. **File Name** : `문제번호_성씨`  
+5. **File Name** : `문제번호_성씨`
     - 백준 : 1006_kang.cpp  
     - 프로그래머스 : 문제명_kang.cpp
     - 코드트리 : 문제명_kang.cpp
@@ -36,7 +36,7 @@
     - [Solve] 💯 codetree.십자모양폭발 
 
 
-## 👐 Contributer
+## 🤝 Contributer
 <a href = "https://github.com/kangshwan">
   <img src="https://avatars.githubusercontent.com/u/46666296?v=4" alt="seunghwan" width="80" style="border-radius:70%"  />
 </a>
@@ -54,5 +54,6 @@
 
 |Week| 1 | 2 |
 |:--:|:-:|:-:|
-|[Week 1](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/codetree/Week01/README.md)|[십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/cross-shape-bomb/description)|[최적의 십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/best-cross-shape-bomb/description)|
-|[Week 2](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/codetree/Week02/README.md)|[떨어지는 1자 블록](https://www.codetree.ai/missions/2/concepts/2/problems/falling-horizontal-block/description)|[핀볼 게임](https://www.codetree.ai/missions/2/concepts/2/problems/pinball-game/description)|
+|[Week 1](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/Week/Week01/README.md)|[십자 모양 폭발 <img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="14">](https://www.codetree.ai/missions/2/concepts/2/problems/cross-shape-bomb/description)|[최적의 십자 모양 폭발 <img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="14">](https://www.codetree.ai/missions/2/concepts/2/problems/best-cross-shape-bomb/description)|
+|[Week 2](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/Week/Week02/README.md)|[떨어지는 1자 블록 <img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="14">](https://www.codetree.ai/missions/2/concepts/2/problems/falling-horizontal-block/description)|[핀볼 게임 <img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="14">](https://www.codetree.ai/missions/2/concepts/2/problems/pinball-game/description)|
+|[Week 3](https://github.com/HUFS-ICE-STUDY/Algorithm/blob/main/Week/Week03/README.md)|[문자열 판별 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="13">](https://www.acmicpc.net/problem/16500)|[아기 상어 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="13">](https://www.acmicpc.net/problem/16236)|
