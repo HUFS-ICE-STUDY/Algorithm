@@ -23,14 +23,13 @@ public class BOJ16236 {
 	
 	public static int[][] grid; // 상어의 위치와 물고기의 위치를 담은 2차원 격자
 	
-	
 	public static ArrayList<Fish> fishes = new ArrayList<Fish>(); // 먹을 수 있는 물고기의 정보를 담은 ArrayList
 	
 	// 상어 또는 물고기의 현재 행과 열 정보 및 거리 정보를 담은 Node 클래스
 	public static class Fish {
 		int x = 0, y = 0, distance = 0;
 		public Fish(int x, int y, int distance) {
-			this.x= x;
+			this.x = x;
 			this.y = y;
 			this.distance = distance;
 		}
