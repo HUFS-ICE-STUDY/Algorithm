@@ -14,7 +14,7 @@
   |                    이름                    |[문자열 판별 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="13">](https://www.acmicpc.net/problem/16500)|[아기 상어 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="13">](https://www.acmicpc.net/problem/16236)|
   |:------------------------------------------:|:--:|:---:|
   | [강승환](https://github.com/kangshwan)     | 🧠 | 🧠 |
-  | [송진호](https://github.com/sth4881)       | 🧠 | 🧠 |
+  | [송진호](https://github.com/sth4881)       | 🧠 | [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](BOJ16236_song.java) |
   | [오동혁](https://github.com/97DongHyeokOH) | 🧠 | 🧠 |
   | [장성훈](https://github.com/jsh9611)       | 🧠 | 🧠 |
 </div>
