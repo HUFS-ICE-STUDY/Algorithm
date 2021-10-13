@@ -11,12 +11,12 @@
 ## 💻 Algorithm Site
 | Algorithm Site | Description |
 |:--------------:|:------------|
-|[Baekjooon](https://www.acmicpc.net/)    |	국내 최대 규모의 알고리즘 사이트                                          |
-|[Programmers](https://programmers.co.kr/)| 국내 기업의 코딩 테스트를 진행하기 위한 플랫폼 제공                        |
-|[Codetree](https://codetree.ai/)         | 알고리즘 전문가들이 체계적인 코딩테스트 문제 유형 분류와 학습 커리큘럼 제공 |
+|[Baekjooon](https://www.acmicpc.net/) | 마이너 프로그래밍 언어를 지원하는 국내 최대 규모의 알고리즘 트레이닝 사이트 |
+|[Programmers](https://programmers.co.kr/)| 국내 기업의 코딩 테스트 진행하는 플랫폼을 제공하는 알고리즘 트레이닝 사이트 |
+|[Codetree](https://codetree.ai/) | 알고리즘 전문가들이 체계적인 코딩테스트 문제 유형 분류와 학습 커리큘럼 제공 |
 
 ## 👨‍💻 Manual
-1. 매주 2~4문제
+1. 매주 `2~4` 문제 풀이
 2. 매주 수요일 🕘`21:00` 코드 리뷰
 3. 각 주차별 Directory Name : `Week[num]`
     - num : 2자리 숫자로
@@ -28,9 +28,10 @@
 5. Commit Message : `[Solve] 💯 사이트명_문제번호.문제명`  
     - [Solve] 💯 BOJ_1006.습격자초라기
     - [Solve] 💯 programmers_level2.기능개발  
-    - [Solve] 💯 codetree.십자모양폭발 
+    - [Solve] 💯 codetree.십자모양폭발
+    - [Update] ✨ README 업데이트
 
-## ✍ Task List
+## ✍ Tasks
 
 |Week| 1 | 2 | 3 | 4 |
 |:--:|:-:|:-:|:-:|:-:|
@@ -38,6 +39,7 @@
 |[Week 2](./Week/Week02/README.md)|[<img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="13"> 떨어지는 1자 블록](https://www.codetree.ai/missions/2/concepts/2/problems/falling-horizontal-block/description)|[<img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="13"> 핀볼 게임](https://www.codetree.ai/missions/2/concepts/2/problems/pinball-game/description)|
 |[Week 3](./Week/Week03/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 문자열 판별](https://www.acmicpc.net/problem/16500)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 아기 상어](https://www.acmicpc.net/problem/16236)
 |[Week 4](./Week/Week04/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" height="12"> 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" height="12"> 일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" height="12"> 공 바꾸기](https://www.acmicpc.net/problem/10813)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 날짜 계산](https://www.acmicpc.net/problem/1476)|
+|[Week 5](./Week/Week05/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" height="12"> 농구 경기](https://www.acmicpc.net/problem/1159)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 비트가 넘쳐흘러](https://www.acmicpc.net/problem/17419)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 미로 만들기](https://www.acmicpc.net/problem/1347)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 개미](https://www.acmicpc.net/problem/3048)|
 
 ## 🤝 Contributer
 <a href = "https://github.com/kangshwan">
