@@ -15,7 +15,7 @@
   |                    이름                    |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" height="12"> 농구 경기](https://www.acmicpc.net/problem/1159)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 비트가 넘쳐흘러](https://www.acmicpc.net/problem/17419)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 미로 만들기](https://www.acmicpc.net/problem/1347)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 개미](https://www.acmicpc.net/problem/3048)|
   |:-----------------------------------------:|:---:|:---:|:---:|:---:|
   | [강승환](https://github.com/kangshwan)     | 🧠 | 🧠 | 🧠 | 🧠 |
-  | [송진호](https://github.com/sth4881)       | [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1159_song.java) | 🧠 | [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1347_song.java) | 🧠 |
+  | [송진호](https://github.com/sth4881)       | [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1159_song.java) | 🧠 | [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1347_song.java) | [<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ3048_song.py) |
   | [오동혁](https://github.com/97DongHyeokOH) | 🧠 | 🧠 | 🧠 | 🧠 |
   | [장성훈](https://github.com/jsh9611)       | 🧠 | 🧠 | 🧠 | 🧠 |
 </div>
