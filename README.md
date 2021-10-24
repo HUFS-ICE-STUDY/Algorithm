@@ -21,25 +21,24 @@
 3. 각 주차별 Directory Name : `Week[num]`
     - ex) Week01, Week02
 4. File Name : `문제번호_성씨`
-    - 백준 : 1006_kang.cpp  
+    - 백준 : BOJ1006_kang.cpp  
     - 프로그래머스 : 문제명_kang.cpp
-    - 코드트리 : 문제명_kang.cpp
 5. Commit Message : `[Solve] 💯 사이트명_문제명`
     - [Solve] 💯 BOJ1006_습격자초라기 <!--띄어쓰기 X-->
     - [Solve] 💯 Programmers_주식가격 <!--띄어쓰기 X-->
-    - [Update] ✨ README 업데이트
+    - [Update] ✨ README.md 업데이트
 
 ## ✍ Tasks
-
 |Week| 1 | 2 | 3 | 4 |
 |:--:|:-:|:-:|:-:|:-:|
 |[Week 1](./Week/Week01/README.md)|[<img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="13"> 십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/cross-shape-bomb/description)|[<img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="13"> 최적의 십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/best-cross-shape-bomb/description)|
 |[Week 2](./Week/Week02/README.md)|[<img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="13"> 떨어지는 1자 블록](https://www.codetree.ai/missions/2/concepts/2/problems/falling-horizontal-block/description)|[<img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="13"> 핀볼 게임](https://www.codetree.ai/missions/2/concepts/2/problems/pinball-game/description)|
 |[Week 3](./Week/Week03/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 문자열 판별](https://www.acmicpc.net/problem/16500)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 아기 상어](https://www.acmicpc.net/problem/16236)
 |[Week 4](./Week/Week04/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" height="12"> 킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" height="12"> 일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" height="12"> 공 바꾸기](https://www.acmicpc.net/problem/10813)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 날짜 계산](https://www.acmicpc.net/problem/1476)|
-|[Week 5](./Week/Week05/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" height="12"> 농구 경기](https://www.acmicpc.net/problem/1159)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 비트가 넘쳐흘러](https://www.acmicpc.net/problem/17419)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 미로 만들기](https://www.acmicpc.net/problem/1347)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 개미](https://www.acmicpc.net/problem/3048)|
+|[Week 5](./Week/Week05/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" height="12"> 농구 경기](https://www.acmicpc.net/problem/1159)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 비트가 넘쳐흘러](https://www.acmicpc.net/problem/17419)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 미로 만들기](https://www.acmicpc.net/problem/1347)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 개미](https://www.acmicpc.net/problem/3048)
+|[Week 6](./Week/Week06/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 나이트 투어](https://www.acmicpc.net/problem/1331)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 킹](https://www.acmicpc.net/problem/1063)
 
-## 🤝 Contributer
+## 🤝 Contributers
 <a href = "https://github.com/kangshwan">
   <img src="https://avatars.githubusercontent.com/u/46666296?v=4" alt="seunghwan" width="80" style="max-width:100%" />
 </a>
