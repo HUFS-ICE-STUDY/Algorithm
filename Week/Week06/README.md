@@ -14,7 +14,7 @@
   <!--주소를 붙여넣는 방법 대신에 './파일명.cpp', './파일명.java', './파일명.py'처럼 링크를 연결해주는 방법이 더 편함-->
   |                    이름                    |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 나이트 투어](https://www.acmicpc.net/problem/1331)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" height="12"> 킹](https://www.acmicpc.net/problem/1063)|
   |:-----------------------------------------:|:---:|:---:|
-  |[강승환](https://github.com/kangshwan)| [  <img src="https://media.vlpt.us/images/seungju0000/post/0bb96d2c-93ff-4415-86ea-f6c71b40260b/img%20(1).png" height="25">](./BOJ1063_kang.cpp) | 🧠 |
+  |[강승환](https://github.com/kangshwan)| [  <img src="https://media.vlpt.us/images/seungju0000/post/0bb96d2c-93ff-4415-86ea-f6c71b40260b/img%20(1).png" height="25">](./BOJ1063_kang.cpp) | [  <img src="https://media.vlpt.us/images/seungju0000/post/0bb96d2c-93ff-4415-86ea-f6c71b40260b/img%20(1).png" height="25">](./BOJ1331_kang.cpp) |
   |[송진호](https://github.com/sth4881)| 🧠 | 🧠 |
   |[오동혁](https://github.com/97DongHyeokOH)| 🧠 | 🧠 |
   |[장성훈](https://github.com/jsh9611)| 🧠 | 🧠 |
