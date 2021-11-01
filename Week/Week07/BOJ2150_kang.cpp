@@ -12,7 +12,7 @@ int scc_count = 0;
 class Graph{
 	private:
 		int g_size;					// total size of graph
-		vector<int>* graph;			// make graph by adjacency list( ÀÎÁ¢¸®½ºÆ® ) 
+		vector<int>* graph;			// make graph by adjacency list( ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ) 
 		vector<int>* inv_graph;		// to use Kosaraju-Sharir, make another graph, which direction is opposite of original graph. 
 		stack<int> s_sink;			// make stack of sink node.
 		bool* visited;				// about visited or not.
@@ -147,6 +147,7 @@ class Graph{
 
 int main() {
 	cin >> V >> E;
+	// plus 1 to V because this question doesn't use 0 index.
 	Graph graph = Graph(++V);
 
 	/*
