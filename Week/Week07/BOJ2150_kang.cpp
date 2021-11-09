@@ -12,7 +12,7 @@ int scc_count = 0;
 class Graph{
 	private:
 		int g_size;					// total size of graph
-		vector<int>* graph;			// make graph by adjacency list( ��������Ʈ ) 
+		vector<int>* graph;			// make graph by adjacency list 
 		vector<int>* inv_graph;		// to use Kosaraju-Sharir, make another graph, which direction is opposite of original graph. 
 		stack<int> s_sink;			// make stack of sink node.
 		bool* visited;				// about visited or not.
@@ -94,6 +94,7 @@ class Graph{
 					DFS(graph[node][i]);
 			}
 		}
+
 		/*
 		normal DFS but on inversed graph.
 		*/
@@ -106,6 +107,7 @@ class Graph{
 	
 			s_sink.push(node);
 		}
+		
 		/*
 		to use kosaraju-sharir algorithm, have to mark inversed graph's sink node to figure out SCC.
 		by doing DFS on inverse graph, we know which node is sink node.
