@@ -15,6 +15,6 @@
   |                    이름                    |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 후보 추천하기](https://www.acmicpc.net/problem/1713)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 소형 기관차](https://www.acmicpc.net/problem/2616)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 트리의 지름](https://www.acmicpc.net/problem/1967)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="13"> 군탈체포조](https://www.acmicpc.net/problem/23354)|
   |:----------------------------------------:|:---:|:---:|:---:|:---:|
   |[강승환](https://github.com/kangshwan)|[<img src="https://media.vlpt.us/images/seungju0000/post/0bb96d2c-93ff-4415-86ea-f6c71b40260b/img%20(1).png" height="25">](./BOJ1713_kang.cpp)|🧠|[<img src="https://media.vlpt.us/images/seungju0000/post/0bb96d2c-93ff-4415-86ea-f6c71b40260b/img%20(1).png" height="25">](./BOJ1967_kang.cpp)|🧠|
-  |[송진호](https://github.com/sth4881)|🧠|🧠|🧠|🧠|
+  |[송진호](https://github.com/sth4881)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1713_song.java)|🧠|🧠|🧠|
   |[오동혁](https://github.com/97DongHyeokOH)|🧠|🧠|🧠|🧠|
   |[장성훈](https://github.com/jsh9611)|🧠|🧠|🧠|🧠|
