@@ -15,6 +15,6 @@
   |                    이름                    |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 죽음의 게임](https://www.acmicpc.net/problem/17204)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 프린터 큐](https://www.acmicpc.net/problem/1966)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="13"> 연속합](https://www.acmicpc.net/problem/1912)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)|
   |:---------------------------------------:|:---:|:---:|:---:|:---:|
   |[강승환](https://github.com/kangshwan)|🧠|🧠|🧠|🧠|
-  |[송진호](https://github.com/sth4881)|🧠|🧠|🧠|🧠|
+  |[송진호](https://github.com/sth4881)|🧠|🧠|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1912_song.java)|🧠|
   |[오동혁](https://github.com/97DongHyeokOH)|🧠|🧠|🧠|🧠|
   |[장성훈](https://github.com/jsh9611)|🧠|🧠|🧠|🧠|
