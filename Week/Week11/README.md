@@ -15,6 +15,6 @@
   |                    이름                    |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 토너먼트](https://www.acmicpc.net/problem/1057)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 거북이](https://www.acmicpc.net/problem/8911)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="13"> 쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="12"> LCS 3](https://www.acmicpc.net/problem/1958)|
   |:---------------------------------------:|:---:|:---:|:---:|:---:|
   |[강승환](https://github.com/kangshwan)|🧠|🧠|🧠|🧠|
-  |[송진호](https://github.com/sth4881)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1057_song.java)|🧠|🧠|🧠|
+  |[송진호](https://github.com/sth4881)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ1057_song.java)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ8911_song.java)|🧠|🧠|
   |[오동혁](https://github.com/97DongHyeokOH)|🧠|🧠|🧠|🧠|
   |[장성훈](https://github.com/jsh9611)|🧠|🧠|🧠|🧠|
