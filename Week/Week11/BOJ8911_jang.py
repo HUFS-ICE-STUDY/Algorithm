@@ -17,6 +17,7 @@ def answer(s):
         elif item == 'R':
             state = (state+4+1)%4
         
+        # 갱신
         if x>r: r = x
         if x<l: l = x
         if y>d: d = y
