@@ -1,5 +1,4 @@
 n,a,b = map(int,input().split())
-print(n,a,b)
 a -= 1
 b -= 1
 count = 0
