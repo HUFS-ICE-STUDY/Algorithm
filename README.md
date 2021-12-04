@@ -26,10 +26,9 @@
 5. Commit Message : `[Solve] 💯 사이트명_문제명`
     - [Solve] 💯 BOJ1006_습격자초라기 <!--띄어쓰기 X-->
     - [Solve] 💯 Programmers_주식가격 <!--띄어쓰기 X-->
-    - [Create] 🎉 X주차 디렉토리 및 README.md 생성
     - [Update] ✨ README.md 업데이트
 
-## ✍ Tasks
+## 📚 Weekly Schedule
 |Week| 1 | 2 | 3 | 4 |
 |:--:|:-:|:-:|:-:|:-:|
 |[Week 1](./Week/Week01/README.md)|[<img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="13"> 십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/cross-shape-bomb/description)|[<img src="https://www.google.com/s2/favicons?domain_url=http://codetree.ai" height="13"> 최적의 십자 모양 폭발](https://www.codetree.ai/missions/2/concepts/2/problems/best-cross-shape-bomb/description)|
@@ -43,6 +42,7 @@
 |[Week 9](./Week/Week09/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 후보 추천하기](https://www.acmicpc.net/problem/1713)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 소형 기관차](https://www.acmicpc.net/problem/2616)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 트리의 지름](https://www.acmicpc.net/problem/1967)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="13"> 군탈체포조](https://www.acmicpc.net/problem/23354)|
 |[Week 10](./Week/Week10/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 죽음의 게임](https://www.acmicpc.net/problem/17204)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 프린터 큐](https://www.acmicpc.net/problem/1966)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="13"> 연속합](https://www.acmicpc.net/problem/1912)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)|
 |[Week 11](./Week/Week11/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 토너먼트](https://www.acmicpc.net/problem/1057)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 거북이](https://www.acmicpc.net/problem/8911)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="13"> 쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="12"> LCS 3](https://www.acmicpc.net/problem/1958)|
+|[Week 12](./Week/Week12/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 거스름돈](https://www.acmicpc.net/problem/14916)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 경쟁적 전염](https://www.acmicpc.net/problem/18405)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="13"> 치즈](https://www.acmicpc.net/problem/2636)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="12"> 비트코인은 신이고 나는 무적이다](https://www.acmicpc.net/problem/23257)|
 
 ## 🤝 Contributers
 <a href = "https://github.com/kangshwan">
