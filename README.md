@@ -8,19 +8,19 @@
 
 ---
 
-## 💻 Algorithm Site
+## 🖥 Algorithm Site
 | Algorithm Site | Description |
 |:--------------:|:------------|
 |[Baekjooon](https://www.acmicpc.net/) | 다양한 프로그래밍 언어를 지원하는 국내 최대 규모의 알고리즘 트레이닝 사이트 |
-|[Programmers](https://programmers.co.kr/)| 알고리즘 트레이닝 및 국내 기업의 코딩 테스트 진행하는 플랫폼 |
+|[Programmers](https://programmers.co.kr/)| 알고리즘 트레이닝 및 코딩 테스트 플랫폼 제공 |
 |[Codetree](https://codetree.ai/) | 알고리즘 전문가들이 체계적인 코딩테스트 문제 유형 분류와 학습 커리큘럼 제공 |
 
 ## 👨‍💻 Manual
 1. 매주 `2~4` 문제 풀이
-2. 매주 수요일 🕘`21:00` 코드 리뷰
-3. 각 주차별 디렉토리 이름 : `WeekXX`
+2. 매주 `수요일` 코드 리뷰
+3. Weekly Directory Name : `WeekXX`
     - ex) Week01, Week02
-4. 파일 이름 : `문제번호_성씨`
+4. File Name : `문제번호_성씨`
     - 백준 : BOJ1006_kang.cpp  
     - 프로그래머스 : 문제명_kang.cpp
 5. Commit Message : `[Solve] 💯 사이트명_문제명`
@@ -43,6 +43,7 @@
 |[Week 10](./Week/Week10/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 죽음의 게임](https://www.acmicpc.net/problem/17204)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 프린터 큐](https://www.acmicpc.net/problem/1966)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="13"> 연속합](https://www.acmicpc.net/problem/1912)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988)|
 |[Week 11](./Week/Week11/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 토너먼트](https://www.acmicpc.net/problem/1057)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 거북이](https://www.acmicpc.net/problem/8911)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="13"> 쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="12"> LCS 3](https://www.acmicpc.net/problem/1958)|
 |[Week 12](./Week/Week12/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 거스름돈](https://www.acmicpc.net/problem/14916)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 경쟁적 전염](https://www.acmicpc.net/problem/18405)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="13"> 치즈](https://www.acmicpc.net/problem/2636)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="12"> 비트코인은 신이고 나는 무적이다](https://www.acmicpc.net/problem/23257)|
+|[Week 13](./Week/Week13/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 스택 수열](https://www.acmicpc.net/problem/1874)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 안테나](https://www.acmicpc.net/problem/18310)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 뒤집기 II](https://www.acmicpc.net/problem/1455)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|
 
 ## 🤝 Contributers
 <a href = "https://github.com/kangshwan">
