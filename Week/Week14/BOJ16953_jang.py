@@ -5,7 +5,6 @@ def solution(a,b):
     while True:
         if a==b:
             return count
-
         elif b%10 == 1:
             b = b//10
             count += 1
