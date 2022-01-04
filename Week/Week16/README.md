@@ -16,5 +16,5 @@
   |:---------------------------------------:|:---:|:---:|:---:|:---:|
   |[강승환](https://github.com/kangshwan)|🧠|🧠|[<img src="https://media.vlpt.us/images/seungju0000/post/0bb96d2c-93ff-4415-86ea-f6c71b40260b/img%20(1).png" height="25">](./BOJ13335_kang.cpp)|🧠|
   |[송진호](https://github.com/sth4881)|🧠|🧠|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ13335_song.java)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ4889_song.java) |
-  |[오동혁](https://github.com/97DongHyeokOH)|🧠|🧠|🧠|🧠|
+  |[오동혁](https://github.com/97DongHyeokOH)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ16637_oh.py)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ19236_oh.py)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ13335_oh.py)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ4889_oh.py)|
   |[장성훈](https://github.com/jsh9611)|🧠|🧠|🧠|🧠|
