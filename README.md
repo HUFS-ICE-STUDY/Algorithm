@@ -26,7 +26,7 @@
 5. Commit Message : `[Solve] 💯 사이트명_문제명`
     - [Solve] 💯 BOJ1006_습격자초라기 <!--띄어쓰기 X-->
     - [Solve] 💯 Programmers_주식가격 <!--띄어쓰기 X-->
-    - [Update] ✨ README.md 업데이트
+    - [Update] ✨ README.md
 
 ## 📚 Weekly Schedule
 |Week| 1 | 2 | 3 | 4 |
