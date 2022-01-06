@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
 
----
+--- 
 
 ## 🖥 Algorithm Site
 | Algorithm Site | Description |
@@ -26,7 +26,7 @@
 5. Commit Message : `[Solve] 💯 사이트명_문제명`
     - [Solve] 💯 BOJ1006_습격자초라기 <!--띄어쓰기 X-->
     - [Solve] 💯 Programmers_주식가격 <!--띄어쓰기 X-->
-    - [Update] ✨ README.md 업데이트
+    - [Update] ✨ README.md
 
 ## 📚 Weekly Schedule
 |Week| 1 | 2 | 3 | 4 |
@@ -47,6 +47,7 @@
 |[Week 14](./Week/Week14/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="13"> 치킨 배달](https://www.acmicpc.net/problem/15686)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="13"> 알파벳](https://www.acmicpc.net/problem/1987)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> A → B](https://www.acmicpc.net/problem/16953)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 외계인의 기타 연주](https://www.acmicpc.net/problem/2841)|
 |[Week 15](./Week/Week15/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" height="13"> 2048 (Easy)](https://www.acmicpc.net/problem/12100)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="13"> 사다리 조작](https://www.acmicpc.net/problem/15684)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 이동하기](https://www.acmicpc.net/problem/11048)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" height="12"> 이상한 하노이 탑](https://www.acmicpc.net/problem/15500)|
 |[Week 16](./Week/Week16/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="13"> 괄호 추가하기](https://www.acmicpc.net/problem/16637)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" height="13"> 청소년 상어](https://www.acmicpc.net/problem/19236)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 트럭](https://www.acmicpc.net/problem/13335)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 안정적인 문자열](https://www.acmicpc.net/problem/4889)|
+|[Week 17](./Week/Week17/README.md)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="13"> 모든 스택 수열](https://www.acmicpc.net/problem/23284)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="13"> 평범한 배낭](https://www.acmicpc.net/problem/12865)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 스도쿠](https://www.acmicpc.net/problem/2580)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" height="12"> 가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)|
 
 ## 🤝 Contributers
 <a href = "https://github.com/kangshwan">

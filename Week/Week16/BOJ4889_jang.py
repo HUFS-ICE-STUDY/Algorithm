@@ -23,4 +23,4 @@ for i in range(len(case)):
             else:
                 s1.pop()
     print(f'{num}. {count+len(s1)//2}')
-    num += 1
+    num += 1 
