@@ -15,6 +15,6 @@
   |                    이름                    |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" height="12"> 예산](https://www.acmicpc.net/problem/2512)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" height="12"> 물통](https://www.acmicpc.net/problem/2251)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 탑](https://www.acmicpc.net/problem/2493)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="12"> 파티](https://www.acmicpc.net/problem/1238)|
   |:---------------------------------------:|:---:|:---:|:---:|:---:|
   |[강승환](https://github.com/kangshwan)|🧠|🧠|🧠|🧠|
-  |[송진호](https://github.com/sth4881)|🧠|🧠|🧠|🧠|
+  |[송진호](https://github.com/sth4881)|🧠|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jar.svg" height="25"/>](./BOJ2251_song.java)|🧠|🧠|
   |[오동혁](https://github.com/97DongHyeokOH)|🧠|🧠|🧠|🧠|
   |[장성훈](https://github.com/jsh9611)|🧠|🧠|🧠|🧠|
