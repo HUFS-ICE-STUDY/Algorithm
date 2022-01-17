@@ -1,13 +1,5 @@
-import sys 
-sys.setrecursionlimit(10**6)
-
 n = int(input())
-equation = []
-for item in input():
-    if item == '+' or item == '-' or item == '*':
-        equation.append(item)
-    else:
-        equation.append(int(item))
+equation = list(input())
 
 def cal_queue(queue):
     result = queue[0]
