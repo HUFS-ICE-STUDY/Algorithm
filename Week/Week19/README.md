@@ -16,5 +16,5 @@
   |:---------------------------------------:|:---:|:---:|:---:|:---:|
   |[강승환](https://github.com/kangshwan)|🧠|🧠|🧠|🧠|
   |[송진호](https://github.com/sth4881)|🧠|🧠|🧠|🧠|
-  |[오동혁](https://github.com/97DongHyeokOH)|🧠|🧠|🧠|🧠|
+  |[오동혁](https://github.com/97DongHyeokOH)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ16501_oh.py)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ1926_oh.py)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ1253_oh.py)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ1922_oh.py)|
   |[장성훈](https://github.com/jsh9611)|🧠|🧠|🧠|🧠|
