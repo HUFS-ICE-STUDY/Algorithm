@@ -25,7 +25,6 @@ void printDevil(){
     }
 }
 int main(){
-    // cin >> scroll >> angelBridge >> devilBridge
     scanf(" %s %s %s", scroll+1, angelBridge+1, devilBridge+1);
     int count = 0;
     for(int i = 1 ; i < 20 ; i++){
@@ -39,7 +38,6 @@ int main(){
             count++;
     }
     bridgeLen = count;
-    // printf("%s\n%s\n%s\n%d\n%d",scroll+1,angelBridge+1,devilBridge+1,scrollLen, bridgeLen);
     for(int bridgeNo = 1 ; bridgeNo <= bridgeLen ; bridgeNo++){
         //Angel part
         if(scroll[1] == angelBridge[bridgeNo]){
