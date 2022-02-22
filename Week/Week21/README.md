@@ -14,7 +14,7 @@
   <!--주소를 붙여넣는 방법 대신에 './파일명.cpp', './파일명.java', './파일명.py'처럼 링크를 연결해주는 방법이 더 편함-->
   |                    이름                    |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" height="12"> 제리와 톰2](https://www.acmicpc.net/problem/17504)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> 회사 문화1](https://www.acmicpc.net/problem/14267)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" height="12"> 다리 만들기 2](https://www.acmicpc.net/problem/17472)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" height="12"> 인구 이동](https://www.acmicpc.net/problem/16234)|
   |:---------------------------------------:|:---:|:---:|:---:|:---:|
-  |[강승환](https://github.com/kangshwan)|🧠|🧠|🧠|🧠|
+   |[강승환](https://github.com/kangshwan)|🧠|🧠|🧠|[<img src="https://media.vlpt.us/images/seungju0000/post/0bb96d2c-93ff-4415-86ea-f6c71b40260b/img%20(1).png" height="25">](./BOJ16234_kang.cpp)|
   |[송진호](https://github.com/sth4881)|🧠|🧠|🧠|🧠|
   |[오동혁](https://github.com/97DongHyeokOH)|🧠|🧠|🧠|🧠|
   |[장성훈](https://github.com/jsh9611)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ17504_jang.py)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ14267_jang.py)|🧠|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ16234_jang.py)|
