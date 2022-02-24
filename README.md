@@ -29,7 +29,7 @@
     - [Update] ✨ README.md
 ## 📚 Weekly Schedule
 <details>
-<summary>### click to open</summary>
+<summary>**click to open**</summary>
 <div markdown="1">
 
 |Week| 1 | 2 | 3 | 4 |
