@@ -12,7 +12,7 @@
   <!--문제를 풀었으면 위의 아이콘 중에 하나를 복사해서 붙여넣기-->
   <!--링크 삽입할 때 Forked Repo(개인 저장소)가 아닌 Remote Repo(원본 저장소) 주소를 붙여넣을 것-->
   <!--주소를 붙여넣는 방법 대신에 './파일명.cpp', './파일명.java', './파일명.py'처럼 링크를 연결해주는 방법이 더 편함-->
-  |                    이름                    |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> PPAP](https://www.acmicpc.net/problem/16120)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="12"> 종이 조각](https://www.acmicpc.net/problem/17837)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" height="12"> 새로운 게임 2](https://www.acmicpc.net/problem/2042)|
+  |                    이름                    |[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" height="12"> PPAP](https://www.acmicpc.net/problem/16120)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" height="12"> 종이 조각](https://www.acmicpc.net/problem/14391)|[<img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" height="12"> 새로운 게임 2](https://www.acmicpc.net/problem/17837)|
   |:---------------------------------------:|:---:|:---:|:---:|
   |[강승환](https://github.com/kangshwan)|🧠|🧠|🧠|
   |[송진호](https://github.com/sth4881)|🧠|🧠|🧠|
