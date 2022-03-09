@@ -1,7 +1,7 @@
 <div align="center">
   <h3><img src="https://user-images.githubusercontent.com/46666296/133788774-1bba4108-db05-4d35-88ac-e355f29040a0.png"></h3>
 
-  ### <center>**Week 23**</center>
+  ### <center>**Week 24**</center>
   <!--CPP-->
   <img src="https://media.vlpt.us/images/seungju0000/post/0bb96d2c-93ff-4415-86ea-f6c71b40260b/img%20(1).png" height="25">
   <!--Java-->
