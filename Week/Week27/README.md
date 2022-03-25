@@ -1,7 +1,7 @@
 <div align="center">
   <h3><img src="https://user-images.githubusercontent.com/46666296/133788774-1bba4108-db05-4d35-88ac-e355f29040a0.png"></h3>
 
-  ### <center>**Week 27**</center>
+  ### <center>**Week 26**</center>
   <!--CPP-->
   <img src="https://media.vlpt.us/images/seungju0000/post/0bb96d2c-93ff-4415-86ea-f6c71b40260b/img%20(1).png" height="25">
   <!--Java-->
@@ -19,4 +19,4 @@
   |[강승환](https://github.com/kangshwan)|🧠|🧠|🧠|
   |[송진호](https://github.com/sth4881)|🧠|🧠|🧠|
   |[오동혁](https://github.com/97DongHyeokOH)|🧠|🧠|🧠|
-  |[장성훈](https://github.com/jsh9611)|🧠|🧠|🧠|
+  |[장성훈](https://github.com/jsh9611)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_swift.svg" height="25"/>](./BOJ17392_jang.swift)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_swift.svg" height="25"/>](./BOJ2436_jang.swift)|[<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="25"/>](./BOJ2098_jang.py)|
